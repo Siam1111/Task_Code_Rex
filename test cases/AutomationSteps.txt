@@ -1,0 +1,8 @@
+Automation steps:
+
+
+1. Setup/Configure the test environment and folder structure
+2. Create page objects
+3. Find locators and create necessary functions in the page object
+4. Create test files
+5. Create the tests using the page objects functions
